@@ -1,0 +1,6 @@
+a=input("what is your name ?")
+b=input("what isyour city ?")
+c=input("what is your age ?")
+print("your name is",a)
+print("your city",b)
+print("your age",c)
