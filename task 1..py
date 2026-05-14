@@ -1,6 +1,8 @@
 a=input("what is your name ?")
 b=input("what isyour city ?")
 c=input("what is your age ?")
+d=input)"what is your hobby?")
 print("your name is",a)
 print("your city",b)
 print("your age",c)
+print("hello","+a+"!At,"+c+",enjoying"+d+"sound fun!")
