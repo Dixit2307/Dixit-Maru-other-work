@@ -1,0 +1,10 @@
+
+print("Hello ")
+#chack if number is divisible by 3 AND 5
+
+number=int(input("Enter a number:"))
+
+if number%3==0 and number%5==0:
+    print("The number is divisible by 3 and 5")
+else:
+    print("The number is not dividible by 3 and 5")
